@@ -1,0 +1,1 @@
+Current state of the project: projections are implemented and validated
